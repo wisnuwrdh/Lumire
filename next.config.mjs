@@ -1,8 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  turbopack: {
-    root: "/home/ubuntu/lumiere",
-  },
-};
+const nextConfig = {};
 
 export default nextConfig;
